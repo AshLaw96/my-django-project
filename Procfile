@@ -1,1 +1,1 @@
-web: gunicorn hello-world-project-2024
+web: gunicorn my_project
